@@ -1,0 +1,5 @@
+.env
+data/vectors/
+__pycache__/
+*.pyc
+.streamlit/
